@@ -2,7 +2,7 @@
 
 Video descriptivo del proyecto:
 
-## Available Scripts
+## Courses
 
 Fullstack Javascript G-25
 

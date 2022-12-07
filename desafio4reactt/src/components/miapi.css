@@ -1,0 +1,14 @@
+body{
+  background-color: yellowgreen;
+}
+.imagenlanding{
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+.bg-secondary{
+  display: flex;
+  flex-direction: column;
+ 
+  
+}
